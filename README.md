@@ -2,6 +2,17 @@ Baixando o ROBOCODE: https://github.com/robo-code/robocode/releases
 Por onde começar?: https://liag.ft.unicamp.br/robocode/robocode/por-onde-comecar/
 
 =============================================================================
+Trabalho : Robocode 
+
+Esse trabalho representa 100% da nota do Semestre , ele consiste em utilizar o programa Robocode 
+para criar robôs virtuais que batalham em uma arena , a linguagem de utilizada é JAVA para programar os robôs.
+
+serão duas provas , então cada grupo opta por criar dois robôs ou um único para competir nas duas modalidades :
+
+- um Arena ( o robô contra todos os outros da sala ) 
+- 1 X 1 ( um contra um )
+===============================================================================
+
 UNIVERSIDADE PAULISTA UNIP
 
 ROBOCODE – ROBOT “SENTUFUMO”
